@@ -6,7 +6,7 @@ It allows two players to play the classic game on the same computer.
 ## Features
 - Graphical user interface (built with C++ Builder)
 - Two-player mode (X vs O)
-- Automatically checks for winner or draw
+- Automatically checks for win
 - Displays simple messages for game over
 
 ## Technologies Used
